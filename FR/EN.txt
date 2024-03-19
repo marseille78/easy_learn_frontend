@@ -1,0 +1,8 @@
+Agent: Good morning ! Travel agency. What can I help you with?
+Client: Do you offer tourist trips to Caribbean Resorts?
+Agent: Yes of course.
+Client: Tell you, please, what resorts are there?
+Agent: Jamaica, Dominican Republic, Cuba...
+Client: Oh! Stop, Cuba, exactly Cuba suits me!
+Agent: When do you want to travel?
+Client: Oh no, now we are solving crosswords here. Thanks a lot, Cuba is a good answer.

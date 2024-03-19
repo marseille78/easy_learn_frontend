@@ -1,0 +1,8 @@
+Agent: Bonjour ! L'Agence de voyages. Qu'est-ce que je peux vous aider?
+Client: Est-ce que vous offrez des voyages touristiques aux Caribbean Resorts ?
+Agent: Oui, bien sûr.
+Client: Dites-vous, s'il vous plaît, quels resorts il y a là-bas ?
+Agent Jamaïque, République dominicaine, Cuba ...
+Client: Оh! Arrêt, Cuba, exactement Cuba me convient!
+Agent: Quand voulez-vous voyager?
+Client: Oh non, maintenant nous résolvons des mots croisés ici. Merci beaucoup, Cuba est une bonne réponse.
